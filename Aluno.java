@@ -1,6 +1,6 @@
 public class Aluno {
 	private String nome;
-	public void inserirNome (String) nn { //public significa que o usuário (dev) poderá chamar os métodos inserirNome mais adiante
+	public void inserirNome (String nn) { //public significa que o usuário (dev) poderá chamar os métodos inserirNome mais adiante
 		nome = nn;
 	}
 	public String recuperarNome() {
