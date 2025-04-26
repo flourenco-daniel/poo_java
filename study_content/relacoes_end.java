@@ -22,3 +22,8 @@ class Endereco {
     }
 }
 
+//comentando o código:
+
+//primeiro eu construo a classe e defino os construtores
+
+//nos métodos, eu to falando o seguinte: seta o nome_rua e depois faz um get para eu usar essa classe nos atributos endereço da classe escola.
