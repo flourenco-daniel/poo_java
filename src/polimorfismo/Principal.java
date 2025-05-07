@@ -17,6 +17,5 @@ public class Principal {
         int z=15;
         System.out.println("O maior elemento entre "+ x +" e " + y + " é: "+ objMaior.maiorElem(x,y));
         System.out.println("O maior elemento entre "+ x +", " + y + " e "+ z +" é: "+ objMaior.maiorElem(x,y,z));
-      }
-  }
+    }
 }
